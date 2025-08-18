@@ -1,0 +1,32 @@
+{
+  "name": "auto-video-summary-app",
+  "version": "1.0.0",
+  "description": "A web application for generating summaries and slides from educational videos and text notes using AI.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "4.0.3",
+    "axios": "^0.21.1",
+    "typescript": "^4.1.2"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.2",
+    "@types/react-dom": "^17.0.2"
+  },
+  "keywords": [
+    "video",
+    "summary",
+    "slides",
+    "education",
+    "AI"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
